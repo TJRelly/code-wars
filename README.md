@@ -1,3 +1,3 @@
 # Code-Wars
 
-A repository with codewars solutions
+A repository with codewars solutions.
